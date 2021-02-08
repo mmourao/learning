@@ -1,7 +1,5 @@
 package com.mariana.checkout;
 
-import chat.Observer;
-
 import java.util.ArrayList;
 import java.util.List;
 

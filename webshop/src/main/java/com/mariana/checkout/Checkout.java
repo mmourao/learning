@@ -1,7 +1,7 @@
 package com.mariana.checkout;
 
 public class Checkout {
-    public static void main(String[] args) {
+    public static void run() {
         ShoppingCart cart = new ShoppingCart();
 
         Item item1 = new Item("1234",10);
